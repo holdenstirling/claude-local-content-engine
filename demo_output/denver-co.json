@@ -1,0 +1,137 @@
+{
+  "location": {
+    "business_name": "Summit Physical Therapy",
+    "industry": "Physical Therapy",
+    "city": "Denver",
+    "state": "CO",
+    "address": "1550 Blake Street, Suite 200",
+    "phone": "(303) 555-0142",
+    "services": "Sports rehabilitation, post-surgical recovery, chronic pain management, dry needling, manual therapy",
+    "unique_selling_points": "Same-day appointments, in-network with all major insurers, former pro sports team therapists on staff",
+    "target_keywords": "physical therapy Denver, sports rehab Denver CO, physical therapist near me"
+  },
+  "content": {
+    "meta": {
+      "title": "Physical Therapy Denver - Summit PT | Sports Rehab & Recovery",
+      "description": "Premier physical therapy in Denver's RiNo district. Same-day appointments, all insurers accepted, pro sports therapists. Call (303) 555-0142 for expert care.",
+      "canonical_slug": "physical-therapy-denver-blake-street"
+    },
+    "content": {
+      "h1": "Leading Physical Therapy in Denver's River North Art District",
+      "intro_paragraph": "Summit Physical Therapy brings world-class rehabilitation services to Denver's vibrant RiNo neighborhood on Blake Street. Our team of former professional sports therapists provides personalized treatment plans designed to get you back to peak performance, whether you're recovering from surgery, managing chronic pain, or seeking to enhance athletic performance.",
+      "services_section": {
+        "heading": "Comprehensive Physical Therapy Services in Downtown Denver",
+        "body": "Located in the heart of Denver's River North Art District, Summit Physical Therapy offers a full spectrum of rehabilitation services tailored to our active Colorado community. Our sports rehabilitation program serves everyone from weekend warriors hitting the trails in nearby City Park to professional athletes, utilizing cutting-edge techniques including dry needling and advanced manual therapy. Our post-surgical recovery specialists work closely with Denver's top orthopedic surgeons at Presbyterian/St. Joseph and National Jewish Health to ensure seamless transitions from surgery to full recovery. For Denver residents dealing with chronic pain from desk jobs in the nearby Central Business District or active lifestyles in the Rocky Mountains, our chronic pain management program combines evidence-based treatments with innovative approaches to help you reclaim your quality of life."
+      },
+      "local_section": {
+        "heading": "Serving Denver's RiNo, LoDo, and Five Points Communities",
+        "body": "Our Blake Street location puts us at the crossroads of Denver's most dynamic neighborhoods, making quality physical therapy accessible to residents and workers throughout the River North Art District, Lower Downtown, and Five Points areas. Just blocks from Union Station and the A-Line, we're easily accessible for commuters from Denver International Airport and surrounding suburbs. Our patients appreciate the convenience of free street parking along Blake Street and our proximity to popular local spots like Ratio Beerworks and the Denver Central Market. The energy of RiNo's creative community mirrors our innovative approach to physical therapy, where we blend traditional techniques with cutting-edge treatments to deliver results that get our patients back to enjoying everything Denver has to offer, from hiking the trails at Sloan's Lake to skiing the nearby mountain resorts."
+      },
+      "why_choose_us": {
+        "heading": "Why Denver Chooses Summit Physical Therapy",
+        "reasons": [
+          "Same-day appointment availability for urgent needs and busy schedules",
+          "In-network with all major insurance providers including Kaiser, Cigna, and United Healthcare",
+          "Former professional sports team therapists with elite-level treatment expertise",
+          "Convenient RiNo location with easy parking and public transit access"
+        ]
+      },
+      "cta_section": {
+        "heading": "Start Your Recovery Journey Today",
+        "body": "Don't let pain keep you from enjoying Denver's active lifestyle. Schedule your consultation with our expert physical therapists today.",
+        "cta_text": "Book Your Appointment"
+      }
+    },
+    "faq": [
+      {
+        "question": "Do you accept my insurance for physical therapy in Denver?",
+        "answer": "Yes, Summit Physical Therapy is in-network with all major insurance providers including Kaiser Permanente, Cigna, United Healthcare, Aetna, and BlueCross BlueShield. We handle all insurance verification and billing to make your experience seamless."
+      },
+      {
+        "question": "Can I get a same-day physical therapy appointment in Denver?",
+        "answer": "Absolutely! We understand that pain doesn't wait, so we reserve same-day appointment slots for urgent needs. Call us at (303) 555-0142 and we'll do our best to see you the same day, especially for acute injuries or sudden pain flare-ups."
+      },
+      {
+        "question": "What makes your Denver physical therapy clinic different?",
+        "answer": "Our team includes former professional sports team therapists who bring elite-level expertise to every patient. We combine this advanced training with personalized care, offering services like dry needling and specialized manual therapy techniques not available at all Denver PT clinics."
+      },
+      {
+        "question": "Do you treat sports injuries for Denver athletes?",
+        "answer": "Yes, sports rehabilitation is one of our specialties. Our therapists have experience working with professional athletes and understand the unique demands of Colorado's active lifestyle, from skiing and snowboarding to hiking and cycling. We create sport-specific recovery programs to get you back to your activities safely."
+      },
+      {
+        "question": "Where is parking available at your Blake Street location?",
+        "answer": "We offer convenient free street parking along Blake Street and surrounding RiNo streets. The clinic is also easily accessible via RTD light rail at Union Station, just a few blocks away, making it convenient for patients throughout the Denver metro area."
+      }
+    ],
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Summit Physical Therapy",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1550 Blake Street, Suite 200",
+        "addressLocality": "Denver",
+        "addressRegion": "CO",
+        "postalCode": "80202"
+      },
+      "telephone": "(303) 555-0142",
+      "description": "Premier physical therapy clinic in Denver's RiNo district offering sports rehabilitation, post-surgical recovery, chronic pain management, and specialized treatments with same-day appointments available.",
+      "areaServed": [
+        "River North Art District",
+        "Lower Downtown Denver",
+        "Five Points",
+        "Central Business District",
+        "Capitol Hill",
+        "Highlands",
+        "Berkeley",
+        "Stapleton"
+      ]
+    },
+    "internal_linking_suggestions": [
+      "Sports injury physical therapy services page",
+      "Post-surgical rehabilitation treatment options",
+      "Chronic pain management programs and techniques"
+    ]
+  },
+  "metadata": {
+    "model": "claude-sonnet-4-20250514",
+    "generation_time_seconds": 28.9,
+    "tokens_used": 2398,
+    "timestamp": "2026-03-08T03:59:16Z"
+  },
+  "evaluation": {
+    "scores": {
+      "local_relevance": {
+        "score": 9,
+        "feedback": "Excellent local relevance with specific Denver neighborhoods (RiNo, LoDo, Five Points), local landmarks (Union Station, City Park, Sloan's Lake), local businesses (Ratio Beerworks, Denver Central Market), and local hospitals mentioned. Strong geographic context throughout."
+      },
+      "seo_optimization": {
+        "score": 8,
+        "feedback": "Good keyword integration with 'physical therapy Denver' and variations naturally incorporated. Title tag is well-optimized. Meta description includes location and phone number. Could benefit from more instances of exact target keywords and better keyword density balance."
+      },
+      "content_quality": {
+        "score": 9,
+        "feedback": "High-quality, comprehensive content that addresses patient needs and concerns. Well-structured with clear sections, detailed service descriptions, and thorough FAQ section. Content flows naturally and provides valuable information for potential patients."
+      },
+      "conversion_potential": {
+        "score": 8,
+        "feedback": "Strong conversion elements including same-day appointments, insurance acceptance, professional credentials, and clear CTAs. Phone number prominently featured. Could be enhanced with more urgency-driven language and specific offers or guarantees."
+      },
+      "schema_accuracy": {
+        "score": 7,
+        "feedback": "Basic LocalBusiness schema is present with essential NAP information and service areas. Missing important schema types for medical business like opening hours, services offered, ratings, and more detailed medical organization markup."
+      },
+      "uniqueness": {
+        "score": 8,
+        "feedback": "Content differentiates well with specific positioning (former pro sports therapists), unique location benefits (RiNo district), and local lifestyle integration. Some standard physical therapy content could be more distinctive."
+      }
+    },
+    "overall_score": 8.2,
+    "top_improvements": [
+      "Add MedicalBusiness schema markup with opening hours, accepted payments, and specific medical services",
+      "Increase exact keyword density for 'sports rehab Denver CO' and 'physical therapist near me'",
+      "Include specific promotions, guarantees, or time-sensitive offers to boost conversion urgency"
+    ]
+  }
+}

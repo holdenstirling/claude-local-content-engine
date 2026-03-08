@@ -1,0 +1,134 @@
+{
+  "location": {
+    "business_name": "Summit Physical Therapy",
+    "industry": "Physical Therapy",
+    "city": "Boulder",
+    "state": "CO",
+    "address": "2025 Pearl Street",
+    "phone": "(303) 555-0198",
+    "services": "Sports rehabilitation, post-surgical recovery, chronic pain management, dry needling, manual therapy",
+    "unique_selling_points": "Trail running injury specialists, same-day appointments, in-network with all major insurers",
+    "target_keywords": "physical therapy Boulder, sports rehab Boulder CO, physical therapist near me"
+  },
+  "content": {
+    "meta": {
+      "title": "Physical Therapy Boulder CO - Summit Physical Therapy",
+      "description": "Leading physical therapy in Boulder CO. Sports rehab specialists serving Pearl Street & downtown Boulder. Same-day appointments available. Call (303) 555-0198 today.",
+      "canonical_slug": "physical-therapy-boulder-co"
+    },
+    "content": {
+      "h1": "Boulder's Premier Physical Therapy & Sports Rehabilitation Center",
+      "intro_paragraph": "Summit Physical Therapy has been Boulder's trusted partner in recovery and performance since opening on Pearl Street in the heart of downtown. Our expert team specializes in getting active Coloradans back to the trails, slopes, and activities they love through personalized treatment plans and cutting-edge rehabilitation techniques.",
+      "services_section": {
+        "heading": "Comprehensive Physical Therapy Services in Boulder",
+        "body": "Located just steps from the Pearl Street Mall, Summit Physical Therapy offers Boulder residents a full spectrum of rehabilitation services tailored to our community's active lifestyle. Our sports rehabilitation program is specifically designed for Boulder's trail runners, rock climbers, and cyclists, addressing common injuries from Chautauqua Park to the Flatirons. We also provide expert post-surgical recovery support for procedures performed at Boulder Community Health and UCHealth, ensuring seamless transitions from hospital to home. Our chronic pain management protocols incorporate both traditional manual therapy techniques and innovative treatments like dry needling, helping Boulder residents overcome persistent pain that limits their mountain adventures. Whether you're recovering from a skiing injury at Eldora or dealing with repetitive stress from cycling the Boulder Creek Path, our team understands the unique physical demands of Colorado living."
+      },
+      "local_section": {
+        "heading": "Serving Boulder's Pearl Street District & Downtown Community",
+        "body": "Our Pearl Street location puts us at the center of Boulder's vibrant downtown community, making us easily accessible to residents of Mapleton Hill, Whittier, and the University Hill neighborhoods. We're perfectly positioned to serve both CU Boulder students dealing with sports injuries and working professionals from the nearby tech corridor experiencing workplace ergonomic issues. The clinic's proximity to popular running and cycling routes like the Boulder Creek Path means we understand the specific biomechanical challenges faced by locals who regularly traverse our area's varied terrain. Many of our patients walk to appointments from nearby neighborhoods or stop by after visiting the Pearl Street Mall, making physical therapy a convenient part of their Boulder lifestyle. We've built strong relationships with Boulder's medical community, including referral partnerships with orthopedic surgeons at Boulder Community Health and sports medicine physicians who understand the active nature of our patient base."
+      },
+      "why_choose_us": {
+        "heading": "Why Boulder Chooses Summit Physical Therapy",
+        "reasons": [
+          "Trail running injury specialists with deep knowledge of Boulder's terrain and common overuse patterns",
+          "Same-day appointment availability to get you back to activities quickly",
+          "In-network with all major insurance plans including Kaiser, Cigna, and Anthem Blue Cross",
+          "Convenient Pearl Street location with easy parking and downtown accessibility"
+        ]
+      },
+      "cta_section": {
+        "heading": "Start Your Recovery Journey Today",
+        "body": "Don't let pain keep you from enjoying everything Boulder has to offer. Schedule your appointment with Boulder's most trusted physical therapy team.",
+        "cta_text": "Book Appointment Now"
+      }
+    },
+    "faq": [
+      {
+        "question": "Do you treat trail running injuries common in Boulder?",
+        "answer": "Absolutely. Our therapists are trail running specialists who understand Boulder's unique terrain from Chautauqua to Green Mountain. We treat IT band syndrome, plantar fasciitis, and other overuse injuries common among local runners."
+      },
+      {
+        "question": "How quickly can I get an appointment at your Boulder location?",
+        "answer": "We offer same-day appointments for urgent needs and typically have availability within 24-48 hours for new patients. Call (303) 555-0198 or book online for fastest scheduling."
+      },
+      {
+        "question": "Do you accept my insurance?",
+        "answer": "Yes, we're in-network with all major insurance plans including Kaiser Permanente, Cigna, Anthem Blue Cross, United Healthcare, and Aetna. We'll verify your benefits before your first visit."
+      },
+      {
+        "question": "Is parking available near your Pearl Street clinic?",
+        "answer": "Yes, we have validated parking available in the Pearl Street Mall garage, plus street parking on Pearl Street and surrounding blocks. The clinic is also easily accessible by bike via Boulder's bike path system."
+      },
+      {
+        "question": "What should I bring to my first physical therapy appointment?",
+        "answer": "Please bring a valid photo ID, insurance card, and any recent imaging (X-rays, MRI) related to your condition. Wear comfortable clothing that allows access to the area being treated."
+      }
+    ],
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Summit Physical Therapy",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2025 Pearl Street",
+        "addressLocality": "Boulder",
+        "addressRegion": "CO"
+      },
+      "telephone": "(303) 555-0198",
+      "description": "Boulder's premier physical therapy clinic specializing in sports rehabilitation, post-surgical recovery, and chronic pain management. Trail running injury specialists with same-day appointments.",
+      "areaServed": [
+        "Boulder",
+        "Lafayette",
+        "Superior",
+        "Louisville",
+        "Broomfield",
+        "Longmont"
+      ]
+    },
+    "internal_linking_suggestions": [
+      "Sports Injury Prevention Tips for Boulder Trail Runners",
+      "Post-Surgical Recovery: What to Expect After Knee Surgery",
+      "Dry Needling Treatment: Benefits for Chronic Pain Relief"
+    ]
+  },
+  "metadata": {
+    "model": "claude-sonnet-4-20250514",
+    "generation_time_seconds": 27.63,
+    "tokens_used": 2275,
+    "timestamp": "2026-03-08T03:59:56Z"
+  },
+  "evaluation": {
+    "scores": {
+      "local_relevance": {
+        "score": 9,
+        "feedback": "Excellent local optimization with specific Boulder landmarks (Pearl Street, Chautauqua Park, Flatirons, Boulder Creek Path), neighborhood mentions (Mapleton Hill, Whittier), and local business partnerships (Boulder Community Health, UCHealth). Strong connection to local lifestyle and terrain-specific injury expertise."
+      },
+      "seo_optimization": {
+        "score": 8,
+        "feedback": "Good keyword integration of target terms throughout content. Title tag is concise and effective. Meta description includes location, services, and CTA with phone number. Headers follow logical hierarchy. Could benefit from more varied long-tail keyword usage and slightly better keyword density balance."
+      },
+      "content_quality": {
+        "score": 8,
+        "feedback": "Well-written, informative content that speaks directly to Boulder residents' active lifestyle. Good balance of service descriptions and local context. Content flows naturally and addresses pain points effectively. Could use more specific service details and treatment outcomes to enhance expertise demonstration."
+      },
+      "conversion_potential": {
+        "score": 7,
+        "feedback": "Strong local trust-building elements and clear value propositions. Same-day appointments and insurance acceptance are compelling. FAQ section addresses common concerns well. However, CTA could be more prominent throughout the content, and specific success stories or testimonials would boost conversion rates."
+      },
+      "schema_accuracy": {
+        "score": 6,
+        "feedback": "Basic LocalBusiness schema is present with essential NAP information and service area. Missing critical elements like business hours, reviews, price range, geo-coordinates, and more detailed service offerings. Schema could be expanded to include FAQPage and Service markup for better SERP features."
+      },
+      "uniqueness": {
+        "score": 8,
+        "feedback": "Highly differentiated content with Boulder-specific references and trail running specialization. Avoids generic physical therapy language by focusing on local terrain challenges and community connections. Unique positioning around Pearl Street location and local partnerships creates strong differentiation."
+      }
+    },
+    "overall_score": 8,
+    "top_improvements": [
+      "Expand structured data to include business hours, geo-coordinates, FAQPage schema, and Service markup",
+      "Add more prominent CTAs throughout content sections and include patient testimonials or success metrics",
+      "Incorporate more long-tail keywords like 'Boulder physical therapist for runners' and 'sports injury clinic downtown Boulder'"
+    ]
+  }
+}

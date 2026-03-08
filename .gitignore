@@ -8,3 +8,4 @@ demo_output/
 .env
 .env.local
 .DS_Store
+!demo_output/
