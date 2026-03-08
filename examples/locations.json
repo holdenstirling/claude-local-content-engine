@@ -1,0 +1,35 @@
+[
+  {
+    "business_name": "Bright Smile Dental",
+    "industry": "Dentistry",
+    "city": "Austin",
+    "state": "TX",
+    "address": "3500 South Lamar Blvd, Suite 100",
+    "phone": "(512) 555-0234",
+    "services": "General dentistry, cosmetic dentistry, teeth whitening, Invisalign, dental implants, emergency dental care",
+    "unique_selling_points": "Same-day crowns with CEREC technology, evening and Saturday appointments, in-network with most insurance plans",
+    "target_keywords": "dentist Austin TX, cosmetic dentist South Lamar, Invisalign Austin"
+  },
+  {
+    "business_name": "Bright Smile Dental",
+    "industry": "Dentistry",
+    "city": "San Antonio",
+    "state": "TX",
+    "address": "800 Dolorosa Street",
+    "phone": "(210) 555-0189",
+    "services": "General dentistry, cosmetic dentistry, teeth whitening, Invisalign, dental implants, emergency dental care, pediatric dentistry",
+    "unique_selling_points": "Bilingual staff (English/Spanish), family-friendly office, same-day emergencies accepted",
+    "target_keywords": "dentist San Antonio, family dentist downtown San Antonio, emergency dentist San Antonio TX"
+  },
+  {
+    "business_name": "Bright Smile Dental",
+    "industry": "Dentistry",
+    "city": "Houston",
+    "state": "TX",
+    "address": "2200 Post Oak Blvd, Suite 300",
+    "phone": "(713) 555-0312",
+    "services": "General dentistry, cosmetic dentistry, teeth whitening, Invisalign, dental implants, emergency dental care, sedation dentistry",
+    "unique_selling_points": "Located in the Galleria area, validated parking, sedation options for anxious patients, cutting-edge digital imaging",
+    "target_keywords": "dentist Houston Galleria, cosmetic dentist Houston TX, sedation dentistry Houston"
+  }
+]
