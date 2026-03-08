@@ -188,7 +188,7 @@ def cmd_demo(args):
                 score = data.get("score", "?")
                 bar = "=" * score + "-" * (10 - score)
                 print(f"     {label:.<25} [{bar}] {score}/10")
-            overall = ev.get("overall_score", 0)
+            overall = int(round(overall))
             print(f"\n     {'Overall Score':.<25} [{'=' * overall}{'-' * (10 - overall)}] {overall}/10")
             improvements = ev.get("top_improvements", [])
             if improvements:
